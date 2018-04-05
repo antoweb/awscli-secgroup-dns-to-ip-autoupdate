@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 GROUPID=<ID SECURITY GROUP>
 PROTOCOL=tcp
