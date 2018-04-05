@@ -3,7 +3,7 @@
 GROUPID=<ID SECURITY GROUP>
 PROTOCOL=tcp
 PORT=22
-PROFILE=<MY AWS CLI PROFILE>
+PROFILE=default
 DDNSNAME=<Specifi your fqdn for your dynamic dns name>
 
 #Reading the old ip address
