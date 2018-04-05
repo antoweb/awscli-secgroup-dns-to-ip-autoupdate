@@ -4,7 +4,7 @@ GROUPID=<ID SECURITY GROUP>
 PROTOCOL=tcp
 PORT=22
 PROFILE=default
-DDNSNAME=<Specifi your fqdn for your dynamic dns name>
+DDNSNAME=<Specify your fqdn for your dynamic dns name>
 
 #Reading the old ip address
 read oldip < /tmp/oldip
