@@ -10,11 +10,11 @@ USAGE ISTRUCTIONS:
 
 **Please set the variable in top of script:**
 
-GROUPID=<ID SECURITY GROUP>  --> SECURITY GROUP ID
-PROTOCOL=tcp --> PROTOCOL TO OPEN
-PORT=22 --> PORT TO OPEN
-PROFILE=<MY AWS CLI PROFILE> --> PROFILE OF your aws cli (if you have more than one) else you can keep default
-DDNSNAME=<Specifi your fqdn for your dynamic dns name> --> put your dynamic dns name like no-ip or ddns etc...
+GROUPID=<ID SECURITY GROUP>  --> SECURITY GROUP ID<br />
+PROTOCOL=tcp --> PROTOCOL TO OPEN<br />
+PORT=22 --> PORT TO OPEN<br />
+PROFILE=<MY AWS CLI PROFILE> --> PROFILE OF your aws cli (if you have more than one) else you can keep default<br />
+DDNSNAME=<Specifi your fqdn for your dynamic dns name> --> put your dynamic dns name like no-ip or ddns etc...<br />
 
 Copy this script to a machine with aws cli installed
 
