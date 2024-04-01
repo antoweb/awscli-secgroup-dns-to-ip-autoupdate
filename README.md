@@ -1,3 +1,5 @@
+PAYPAL DONTAION  
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/sistemistaitaliano/1)
 # awscli-secgroup-dns-to-ip-autoupdate
 This bash script create/update automatically a rule in AWS EC2 security group starting from a FQDN (dynamic dns)
 
